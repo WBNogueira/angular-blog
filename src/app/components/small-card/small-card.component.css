@@ -8,9 +8,9 @@
   flex-direction: row;
 }
 
-.small-card_photo > img {
+.small-card__photo > img {
   width: 200px;
-  min-width: 200px;
+  min-width: 200;
   margin-right: 20px;
 }
 
